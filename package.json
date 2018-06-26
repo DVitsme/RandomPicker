@@ -1,0 +1,12 @@
+{
+  "name": "indecision-app",
+  "version": "1.0.0",
+  "description": "This app will allow you to put in a couple of different ideas and it will randomly choose one for you",
+  "main": "index.js",
+  "author": "Derrick Valentine",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
