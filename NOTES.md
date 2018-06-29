@@ -14,5 +14,5 @@ sudo npm install -g babel-cli@6.24.1
 mkdir src && touch src/app.js
 
 
-//time to run babel to Compatible
-babel src/app.js --out-file=public/scripts/add.js --presets=env,react
+//time to run babel to compile
+babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
